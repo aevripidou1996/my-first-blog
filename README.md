@@ -22,6 +22,6 @@ The starter code for this assesment. Previous git pusheshes with modified code. 
 
 The second URL  once deployed will showcase the finished live application.
 
-Github URL: https: https://github.com/aevripidou1996/weather-app
+Github URL: https: https://github.com/aevripidou1996/my-first-blog
 
-Live Application URL: https://aevripidou1996.github.io/weather-app/
+Live Application URL: http://localhost:3001/#
